@@ -39,7 +39,7 @@
     "kleur": "^4.1.5",
     "node-fetch": "^3.3.2",
     "pino": "^9.9.0",
-    "playwright": "1.55.0",
+    "playwright": "1.55.1",
     "validator": "^13.15.15",
     "validatorjs": "^3.22.1",
     "winston": "^3.17.0"
